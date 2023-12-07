@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Radio_program</name>
+   <tag></tag>
+   <elementGuidId>85e13959-4d46-4c44-93d8-b0070703b076</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;chk_hospotal_readmission&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;chk_hospotal_readmission&quot;]</value>
+      <webElementGuid>994bfe2a-c69b-404b-bbc0-1c5f57865513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>187177e4-1d94-44fc-9693-3fcd3091378f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

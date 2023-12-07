@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_data_username</name>
+   <tag></tag>
+   <elementGuidId>1b5c32fc-1282-4c75-8f5f-c74804aad7ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;login&quot;]/div/div/div[2]/form/div[1]/div[1]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;login&quot;]/div/div/div[2]/form/div[1]/div[1]/div/div/input</value>
+      <webElementGuid>8cd85173-43cd-4bda-84da-a89c0ab4df42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e0a61807-e4ce-4cb9-ba03-fefdef0936a9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
